@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "vercel-build": "echo hello"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
