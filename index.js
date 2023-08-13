@@ -26,6 +26,6 @@ const start = async () => {
     }
 }
 
-start();
+start().then(r => r);
 
 
