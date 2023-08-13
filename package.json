@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@railway/cli": "^3.4.0",
     "@types/react": "^18.2.20",
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
