@@ -18,7 +18,6 @@
     "jsonwebtoken": "^9.0.1",
     "pg": "^8.11.2",
     "pg-hstore": "^2.3.4",
-    "railway": "^2.0.17",
     "sequelize": "^6.32.1"
   },
   "devDependencies": {
